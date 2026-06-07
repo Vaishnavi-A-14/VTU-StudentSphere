@@ -1,0 +1,6 @@
+{
+  "name": "VTU StudentSphere",
+  "description": "VTU 2025 Scheme EdTech platform featuring notes, roadmaps, CGPA calculators, solved papers, and an AI doubt solver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
